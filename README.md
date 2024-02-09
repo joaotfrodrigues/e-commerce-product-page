@@ -17,11 +17,11 @@ Users should be able to:
 
 ### Screenshot
 
-![challenge-screenshot](https://github.com/joaotfrodrigues/e-commerce-product-page/assets/95132933/315d2aff-3659-4169-bd59-60616fdf31ba)
+![challenge-screenshot](https://github.com/joaotfrodrigues/e-commerce-product-page/assets/95132933/85069f06-9bf1-4161-917d-1c3dffe9b0a0)
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://joaotfrodrigues.github.io/e-commerce-product-page/)
 
 ### Built with
 
